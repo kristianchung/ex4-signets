@@ -1,0 +1,17 @@
+.ListeDossiers {
+  display: flex;
+  list-style: none;
+  padding: 10px 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.noteVideDossier{
+  background-color: red;
+  color: white;
+  padding: 25px;
+  margin: 200px;
+  font-size: 2em;
+  text-align: center;
+  border: 3px solid black;
+}
